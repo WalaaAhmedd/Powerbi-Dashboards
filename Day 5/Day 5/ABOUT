@@ -1,0 +1,113 @@
+# ✈️ Flights Dashboard | Power BI
+
+An interactive Power BI dashboard that analyzes airline operations, flight performance, and passenger trends. The dashboard enables users to monitor key aviation metrics and uncover insights for data-driven decision making.
+
+---
+
+## 📌 Project Overview
+
+This project transforms raw flight data into an interactive dashboard that provides valuable insights into airline performance, airport activity, and flight operations.
+
+The dashboard allows users to explore:
+
+- Flight performance
+- Passenger trends
+- Airport activity
+- Airline comparisons
+- Operational KPIs
+
+---
+
+## 📂 Dataset
+
+The project uses multiple datasets including:
+
+- Flight Records
+- Airport Information
+- Airline/Carrier Data
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+---
+
+## 📊 Dashboard Features
+
+✔ Interactive Filters (Slicers)
+
+✔ KPI Cards
+
+✔ Bar Charts
+
+✔ Line Charts
+
+✔ Pie Charts
+
+✔ Maps (if applicable)
+
+✔ Drill-through Analysis
+
+---
+
+## 📈 Key Insights
+
+- Identify the busiest airports.
+- Compare airline performance.
+- Analyze passenger traffic.
+- Monitor flight delays and operational trends.
+- Evaluate overall airline efficiency.
+
+---
+
+## 📂 Project Structure
+
+```
+Flights Dashboard/
+│
+├── FlightsDashboard.pbix
+├── airport-codes_csv.csv
+├── carrier.xlsx
+└── README.md
+```
+
+---
+
+## 🚀 How to Open
+
+1. Download the repository.
+2. Open **FlightsDashboard.pbix** using Microsoft Power BI Desktop.
+3. Refresh the data if needed.
+
+---
+
+## 📸 Dashboard Preview
+
+> Add screenshots of the dashboard here.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Modeling
+- Data Cleaning
+- Power Query
+- DAX
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+
+---
+
+## 👩‍💻 Author
+
+**Walaa Ahmed**
+
+- Aspiring Data Analyst
+- MSc Student in Big Data
+- GitHub: https://github.com/WalaaAhmedd
