@@ -1,9 +1,13 @@
-# Project Dashboard
+# Power BI Dashboard
 
-## Dashboard Preview
+## Overview
 
-![Dashboard Screenshot](screenshots/Overview.png)
+![Overview](Overview.png)
 
-## Analysis Results
+## Revenue Analysis
 
-![Analysis Screenshot](screenshots/Revenue Analysis.png)
+![Revenue Analysis](Revenue Analysis.png)
+
+## Details of hotels 
+
+![Details of hotels](Details of hotels.png)
