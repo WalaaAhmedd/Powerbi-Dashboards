@@ -47,4 +47,3 @@ Feel free to explore the projects and dashboards!
 
 ---
 
-**Created by:** Walaa Ahmed
